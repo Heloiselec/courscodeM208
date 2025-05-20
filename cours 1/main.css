@@ -1,0 +1,28 @@
+/* style.css */
+body{ 
+  background: rgb(40,50,245);
+  color: white;
+  font-size: 15px;
+  font-family: Courier;
+}
+h1 {
+  font-family: 'Playwrite DK Loopet', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+
+  background: linear-gradient(yellow 60%);
+  display: inline;
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: yellow;
